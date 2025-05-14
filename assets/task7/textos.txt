@@ -1,0 +1,19 @@
+Bulbasaur | Grama/Veneno | Um bulbo de planta cresce em suas costas e se desenvolve conforme ele evolui.
+
+Ivysaur | Grama/Veneno | Seu bulbo se torna um botão, perto de florescer em uma flor.
+
+Venusaur | Grama/Veneno | Usa sua flor para absorver luz solar e gerar energia.
+
+Charmander | Fogo | A chama em sua cauda queima mais forte conforme ele ganha força.
+
+Charmeleon | Fogo | Conhecido por sua natureza agressiva e ataques de fogo.
+
+Charizard | Fogo/Voador | Voa em busca de oponentes poderosos para batalhar.
+
+Squirtle | Água | Sua carapaça reduz danos. É um nadador habilidoso.
+
+Wartortle | Água | Um Pokémon leal e resistente com uma cauda grande e peluda.
+
+Blastoise | Água | Usa canhões em sua carapaça para disparar água em alta pressão.
+
+Caterpie | Inseto | Libera um odor de suas antenas quando se sente ameaçado.

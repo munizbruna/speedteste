@@ -1,0 +1,24 @@
+CREATE DATABASE roupaskill;
+USE roupaskill;
+
+CREATE TABLE produtos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    descricao TEXT,
+    cor VARCHAR(50),
+    valor DECIMAL(10, 2) NOT NULL
+);
+
+INSERT INTO produtos (nome, descricao, cor, valor) VALUES
+('Camiseta Básica', 'Camiseta básica de algodão', 'Branca', 29.90),
+('Camiseta Estampa Floral', 'Camiseta com estampa de flores', 'Azul', 35.50),
+('Camiseta Listrada', 'Camiseta com listras horizontais', 'Preta', 32.00),
+('Camiseta Esportiva', 'Camiseta leve para atividades físicas', 'Cinza', 40.00),
+('Camiseta Polo', 'Camiseta polo elegante', 'Vermelha', 50.00),
+('Camiseta Longline', 'Camiseta com corte alongado', 'Verde', 34.99),
+('Camiseta Vintage', 'Camiseta com estampa retrô', 'Amarela', 42.50),
+('Camiseta Personalizada', 'Camiseta personalizada com seu nome', 'Rosa', 55.00),
+('Camiseta Manga Longa', 'Camiseta de manga longa para o frio', 'Bordô', 45.99),
+('Camiseta Slim Fit', 'Camiseta ajustada ao corpo', 'Branco', 38.75),
+('Camiseta Tie-Dye', 'Camiseta colorida com efeito tie-dye', 'Multicolorida', 48.30),
+('Camiseta Oversized', 'Camiseta larga e confortável', 'Preta', 39.90);
