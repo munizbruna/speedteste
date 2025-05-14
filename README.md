@@ -1,8 +1,4 @@
-Aqui está um modelo de `README.md` para o repositório do GitHub com base na prova anexada:
-
----
-
-# 💻 Projeto Speed Test – Desenvolvimento de Sistemas
+ 💻 Projeto Speed Test – Desenvolvimento de Sistemas
 
 Este repositório foi criado com o objetivo de armazenar e executar as **tarefas práticas de avaliação rápida (Speed Test)** aplicadas na prova da modalidade 17 – Simulado Limeira/SP, com foco principal nas questões de **HTML e CSS**.
 
